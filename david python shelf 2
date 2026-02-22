@@ -1,0 +1,11 @@
+print ("Fullname:David Baldo")
+
+print("AGE:18")
+print("height in meters:1.75")
+print("currently working?:no")
+
+print("\nDataTypes")
+print("Fullname:",type("David baldo"))
+print("AGE:",type(18))
+print("height in meters:",type(1.75))
+# print("currently working?:",type(no))---IGNORE---
